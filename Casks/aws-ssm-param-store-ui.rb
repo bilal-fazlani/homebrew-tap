@@ -1,8 +1,8 @@
 cask "aws-ssm-param-store-ui" do
-  version "1.5"
-  sha256 "78b0258a9ca8524f5a962c4db44610fd1e047e28e787ad4e4d82cea72aad7ff7"
+  version "1.6"
+  sha256 "c08bf242e8f9d45bac423ab4afda3d1e07167b670ec09aa0dc213cdef38b1932"
 
-  url "https://github.com/bilal-fazlani/aws-ssm-param-store-ui/releases/download/v1.5/AWS.SSM.Param.Store.UI-1.5.dmg"
+  url "https://github.com/bilal-fazlani/aws-ssm-param-store-ui/releases/download/v1.6/AWS.SSM.Param.Store.UI-1.6.dmg"
   name "AWS SSM Param Store UI"
   desc "macOS GUI for browsing and editing AWS SSM Parameter Store"
   homepage "https://github.com/bilal-fazlani/aws-ssm-param-store-ui"
